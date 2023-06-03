@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MARC-porfolio-react/static/css/main.22ab5e6e.css",
+    "main.js": "/MARC-porfolio-react/static/js/main.3e2ba36d.js",
+    "static/js/787.aeca62f9.chunk.js": "/MARC-porfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/logo.svg": "/MARC-porfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MARC-porfolio-react/index.html",
+    "main.22ab5e6e.css.map": "/MARC-porfolio-react/static/css/main.22ab5e6e.css.map",
+    "main.3e2ba36d.js.map": "/MARC-porfolio-react/static/js/main.3e2ba36d.js.map",
+    "787.aeca62f9.chunk.js.map": "/MARC-porfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ab5e6e.css",
+    "static/js/main.3e2ba36d.js"
+  ]
+}
