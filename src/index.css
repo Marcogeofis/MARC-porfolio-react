@@ -2,6 +2,14 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+:root{
+  --azul-obscuro: #141E27;
+  --verde: rgb(67, 196, 50);
+  --gradiente-verde: linear-gradient(to bottom right, #43c432, rgb(240, 248, 255, 0.2));
+  --verde-rgba:rgba(67, 196, 50, 0.4);
+  --blanco-azulado: aliceblue;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -9,6 +17,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: var(--azul-obscuro);
 }
 
 code {
