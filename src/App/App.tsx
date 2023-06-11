@@ -1,20 +1,13 @@
 import React from 'react';
-import { Header } from '../components/header';
-import { IntroMyself } from '../components/introduceMyself';
-import { AboutMe } from '../components/aboutMe';
-import { SectionProject } from '../components/sectionProjects';
-import { Footer } from '../components/footer';
+import { Portfolio  } from '../porfolio/portfolio';
+import { Route } from 'wouter';
+import { Skills } from '../pages/About';
 function App() {
 
   return (
-    <div className="flex justify-center items-center flex-col">
-      <Header />
-      <main className="flex justify-center items-center flex-col">
-        <IntroMyself />
-        <AboutMe />
-        <SectionProject />
-      </main>
-      <Footer />
+    <div className="w-full">
+      <Route path='/MARC-porfolio-react' component={Portfolio} />
+      <Route path='/MARC-porfolio-react/mySkils' component={Skills} />
     </div>
   );
 }
