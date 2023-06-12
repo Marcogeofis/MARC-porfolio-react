@@ -11,7 +11,7 @@ function Skills(){
             <section className="w-full flex justify-center items-center flex-col mt-12">
                 <MySkills />
             </section>
-            <section className="w-full flex justify-center items-center flex-col mt-12">
+            <section className="w-full flex justify-center items-center flex-col mt-12 md:mt-10">
                 <Lenguages />
             </section>
             <Footer />

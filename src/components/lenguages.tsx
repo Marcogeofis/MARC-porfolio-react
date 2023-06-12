@@ -57,8 +57,8 @@ function Lenguages(){
                         {
                             lenguages.map(res => {
                                 return(
-                                    <figure className="flex justify-center items-center flex-col">
-                                        <img className="w-16 h-16" src={res.lenguage} alt={res.nameLenguages} />
+                                    <figure key={res.nameLenguages} className="flex justify-center items-center flex-col">
+                                        <img className="w-16 h-16 xl:w-100 xl:h-100" src={res.lenguage} alt={res.nameLenguages} />
                                         <p className="text-azulOscuro">{res.nameLenguages}</p>
                                     </figure>
                                 )

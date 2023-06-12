@@ -10,7 +10,7 @@ function Portfolio () {
     return (
         <div className="flex justify-center items-center flex-col font-dosis">
             <Header />
-            <main className="flex justify-center items-center flex-col">
+            <main className="flex justify-center items-center flex-col xl:w-full">
                 <IntroMyself />
                 <AboutMe />
                 <SectionProject />
