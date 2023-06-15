@@ -11,7 +11,6 @@ function Header() {
                 <Link className='flex-1 list-none mx-1.5 text-xs' to="/MARC-porfolio-react/">Home</Link>
                 <Link className='flex-1 list-none mx-1.5 text-xs' to="/MARC-porfolio-react/mySkils">About</Link>
                 <a href='#Projects' className='flex-1 list-none mx-1.5 text-xs'>Projects</a>
-                <li className='flex-1 list-none mx-1.5 text-xs'>Ing|Esp</li>
             </nav>
       </header>
     )
