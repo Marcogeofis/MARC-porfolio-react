@@ -13,7 +13,7 @@ function Skills(){
             </section>
             <section className="w-full flex justify-center items-center flex-col mt-12 md:mt-10">
                 <Lenguages />
-            </section>
+            </section >
             <Footer />
         </div>
     )
