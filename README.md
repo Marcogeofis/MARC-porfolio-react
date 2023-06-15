@@ -14,6 +14,7 @@ I continuous learning and practicing with Frontend development. My next step is 
 #### Tools I used.
 
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)
 ![TypeScript](https://img.shields.io/npm/types/typescript?label=4.9.5&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-3.3.2-38B2AC?logo=tailwind-css)
 #### If you want to see my code 
