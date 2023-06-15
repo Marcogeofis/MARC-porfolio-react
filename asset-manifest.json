@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MARC-porfolio-react/static/css/main.3021c2c4.css",
-    "main.js": "/MARC-porfolio-react/static/js/main.0213d34a.js",
+    "main.js": "/MARC-porfolio-react/static/js/main.571cf926.js",
     "static/js/787.aeca62f9.chunk.js": "/MARC-porfolio-react/static/js/787.aeca62f9.chunk.js",
     "index.html": "/MARC-porfolio-react/index.html",
     "main.3021c2c4.css.map": "/MARC-porfolio-react/static/css/main.3021c2c4.css.map",
-    "main.0213d34a.js.map": "/MARC-porfolio-react/static/js/main.0213d34a.js.map",
+    "main.571cf926.js.map": "/MARC-porfolio-react/static/js/main.571cf926.js.map",
     "787.aeca62f9.chunk.js.map": "/MARC-porfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3021c2c4.css",
-    "static/js/main.0213d34a.js"
+    "static/js/main.571cf926.js"
   ]
 }
