@@ -13,9 +13,6 @@ I continuous learning and practicing with Frontend development. My next step is 
 
 #### Tools I used.
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![TypeScript](https://img.shields.io/npm/types/typescript?label=4.9.5&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-3.3.2-38B2AC?logo=tailwind-css)
